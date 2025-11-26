@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_uts_ppb.iml" filepath="$PROJECT_DIR$/flutter_uts_ppb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_uts_ppb_android.iml" filepath="$PROJECT_DIR$/android/flutter_uts_ppb_android.iml" />
+    </modules>
+  </component>
+</project>
