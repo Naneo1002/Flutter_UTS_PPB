@@ -23,7 +23,7 @@ class WidgetTree extends StatelessWidget {
               height: kToolbarHeight,
               width: 28,
               child: Image.asset(
-                'images/anemoElement.png',
+                'ui/anemoElement.png',
                 fit: BoxFit.contain,
               ),
             ),
@@ -32,7 +32,7 @@ class WidgetTree extends StatelessWidget {
               height: kToolbarHeight,
               width: 28,
               child: Image.asset(
-                'images/cryoElement.png',
+                'ui/cryoElement.png',
                 fit: BoxFit.contain,
               ),
             ),
@@ -46,7 +46,7 @@ class WidgetTree extends StatelessWidget {
               height: kToolbarHeight,
               width: 28,
               child: Image.asset(
-                'images/electroElement.png',
+                'ui/electroElement.png',
                 fit: BoxFit.contain,
               ),
             ),
@@ -55,7 +55,7 @@ class WidgetTree extends StatelessWidget {
               height: kToolbarHeight,
               width: 28,
               child: Image.asset(
-                'images/pyroElement.png',
+                'ui/pyroElement.png',
                 fit: BoxFit.contain,
               ),
             ),
