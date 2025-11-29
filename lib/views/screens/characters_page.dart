@@ -13,108 +13,108 @@ class CharactersPage extends StatelessWidget {
       crossAxisCount: 3,
       children: <Widget>[
         GridTile(
-          child: Image.asset('characters/aino.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
             title: Text('Aino', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/aino.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Arlecchino', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/arlecchino.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Barbara', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/barbara.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Chevreuse', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/chevreuse.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Fischl', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/fischl.png', fit: BoxFit.cover),
         ),GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Furina', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/furina.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Hu Tao', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/hutao.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Kaedehara Kazuha', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/kazuha.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Navia', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/navia.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Qiqi', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/qiqi.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Raiden', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/raiden.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Sayu', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/sayu.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Venti', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/venti.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Xiangling', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/xiangling.png', fit: BoxFit.cover),
         ),
         GridTile(
-          child: Image.asset('characters/.png', fit: BoxFit.cover),
           footer: GridTileBar(
             backgroundColor: Colors.black45,
-            title: Text('', textAlign: TextAlign.center),
+            title: Text('Yelan', textAlign: TextAlign.center),
           ),
+          child: Image.asset('characters/yelan.png', fit: BoxFit.cover),
         ),
       ],
     );
