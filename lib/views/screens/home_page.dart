@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
     return Container(
       decoration: BoxDecoration(
         image: DecorationImage(
-          image: AssetImage('assets/images/bg.png'),
+          image: AssetImage('ui/bg.png'),
           fit: BoxFit.cover,
           alignment: Alignment.center,
         ),

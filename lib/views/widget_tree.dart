@@ -38,7 +38,7 @@ class WidgetTree extends StatelessWidget {
             ),
           ],
         ),
-        title: Text('Genshin Database'),
+        title: Text('Genshin Impact Database'),
         centerTitle: true,
         backgroundColor: Colors.purple,
         actions: [
